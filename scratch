@@ -1,0 +1,164 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title></title>
+	<link rel="stylesheet" type="text/css" href="style.css">
+	<link rel="stylesheet" type="text/css" href="bootstrap-5.0.0-beta2-dist\bootstrap-5.0.0-beta2-dist\css\bootstrap.css">
+	<script src="bootstrap-5.0.0-beta2-dist\bootstrap-5.0.0-beta2-dist\js\bootstrap.js"></script>
+
+</head>
+<body>
+<div class="container-fluid">
+	<div class="bg"></div>
+
+<img src="images/logo.jpg">
+	<div class="msg">
+		<center>
+		<h1>Lorem ipsum dolor sit amet</h1>
+			<p>
+					consectetur adipisicing elit, sed do eiusmod tempor incididunt <br>
+				ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud <br>
+				exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. <br>
+				Duis aute irure dolor in reprehenderit in voluptate velit esse cillum <br>
+				dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non <br>
+				proident, sunt in culpa qui officia deserunt mollit anim id est laborum. <br>
+			</p>
+		</center>
+	</div>
+
+	<div class="a">
+		<a href="">Fashion's Closet</a>
+	</div>
+	<div>
+	<div class="home">
+		<a href="" class="hm">HOME</a>
+	</div>
+	<div class="product">
+		<a href="" class="pr">PRODUCT</a>
+	</div>
+	<div class="about us">
+		<a href="" class="au">ABOUT US</a>
+	</div>
+	<div class="contact us">
+		<a href="" class="cu">CONTACTUS</a>
+	</div>
+	<div class="search">
+		<a href="" class="srch">SEARCH</a>
+	</div>
+	<div class="login">
+		<a href="" class="li">LOG IN</a>
+	</div>
+	<div class="read more">
+		<a href="" class="rm">Read more</a>
+	</div>
+	<div class="ab">ABOUT US</div>
+</div>
+	<div class="box1">
+	<center>
+	<h1>Lorem ipsum dolor sit amet</h1>
+		<p>consectetur adipisicing elit, 
+		sed do eiusmod tempor incididunt 
+		ut labore et dolore magna aliqua. 
+		Ut enim ad minim veniam, quis nostrud
+		exercitation ullamco laboris nisi ut 
+		aliquip ex ea commodo consequat. 
+		Duis aute irure dolor in reprehenderit
+		in voluptate velit essecillum dolore 
+		eu fugiat nulla pariatur. Excepteur 
+		sint occaecat cupidatat non proident, 
+		sunt in culpa qui officia deserunt 
+		mollit anim id est laborum.
+		<br>
+		</p>
+	</center>
+	</div>
+	<div class="box2"></div>
+	<div class="box3"></div>
+	<div class="box4">
+	<center>
+	<h1>Lorem ipsum dolor sit amet</h1>
+		<p>consectetur adipisicing elit, 
+		sed do eiusmod tempor incididunt 
+		ut labore et dolore magna aliqua. 
+		Ut enim ad minim veniam, quis nostrud
+		exercitation ullamco laboris nisi ut 
+		aliquip ex ea commodo consequat. 
+		Duis aute irure dolor in reprehenderit
+		in voluptate velit essecillum dolore 
+		eu fugiat nulla pariatur. Excepteur 
+		sint occaecat cupidatat non proident, 
+		sunt in culpa qui officia deserunt 
+		mollit anim id est laborum.
+		 <br>
+		 </p>
+		</center>
+	</div>
+	<div class="box5">
+	<center>
+	<h1>Lorem ipsum dolor sit amet</h1>
+		<p>consectetur adipisicing elit, 
+		sed do eiusmod tempor incididunt 
+		ut labore et dolore magna aliqua. 
+		Ut enim ad minim veniam, quis nostrud
+		exercitation ullamco laboris nisi ut 
+		aliquip ex ea commodo consequat. 
+		Duis aute irure dolor in reprehenderit
+		in voluptate velit essecillum dolore 
+		eu fugiat nulla pariatur. Excepteur 
+		sint occaecat cupidatat non proident, 
+		sunt in culpa qui officia deserunt 
+		mollit anim id est laborum.
+		 <br>
+		 </p>
+		</center>
+	</div>
+	<div class="box6"></div>
+	<div class="prdcts">PRODUCTS</div>
+	<div class="rr"></div>
+	<div class="box7"></div>
+	<div class="box8"></div>
+	<div class="box9"></div>
+	<div class="prdct1">PRODUCT 1</div>
+	<div class="prdct2">PRODUCT 2</div>
+	<div class="prdct3">PRODUCT 3</div>
+	<div class="box10"></div>
+	<div class="box11"></div>
+	<div class="box12"></div>
+	<div class="prdct4">PRODUCT 1</div>
+	<div class="prdct5">PRODUCT 2</div>
+	<div class="prdct6">PRODUCT 3</div>
+	<div class="box13"></div>
+	<div class="box14"></div>
+	<div class="box15"></div>
+	<div class="prdct7">PRODUCT 1</div>
+	<div class="prdct8">PRODUCT 2</div>
+	<div class="prdct9">PRODUCT 3</div>
+	<div class="cntctus">CONTACT US</div>
+	<div class="rr0"></div>
+	<div class="rr1"></div>
+	<div class="last"></div>
+	<div class="msg1">consectetur adipisicing elit, sed do eiusmod tempor<br> 
+					 incididunt ut labore et dolore magna aliqua. Ut enim ad <br>
+					 minim veniam, quis nostrud exercitation laboris nisi ut <br>
+					 aliquip ex ea commodo consequat. Duis aute irure dolor in<br>
+					 reprehenderit in voluptate velit esse cillum dolore eu fugiat <br>
+					 nulla pariatur. Excepteur sint occaecat cupidatat non proident, <br>
+					 sunt in culpa qui officia deserunt mollit anim id est laborum.</div>
+	<div class="facebook">
+	<a href="https://www.facebook.com/" class="fb"></a>
+	</div>
+	<div class="instagram">
+	<a href="https://www.instagram.com/" class="ig"></a>
+	</div>
+	<div class="rr2"></div>
+	<div class="twitter">
+	<a href="https://www.twitter.com/" class="twt"></a>
+	<div class="tiktok">
+	<a href="https://www.tiktok.com/" class="tktk"></a>
+	<img src="images/logo.jpg" class="rr3">
+	<div class="fc">Fashion's Closet</div>
+	<div class="terms">Terms and conditions<br>
+					All rights reserved 2021</div>
+	<div class="developed">Developed by: Rochelle Anonuevo Nueva</div>
+</body>
+</html>
